@@ -1,0 +1,16 @@
+com\springsecurity\spsecurity\config\SecurityConfig.class
+com\springsecurity\spsecurity\controller\StudentManagementController.class
+com\springsecurity\spsecurity\entity\Role.class
+com\springsecurity\spsecurity\controller\MainController.class
+com\springsecurity\spsecurity\entity\StudentManagementEntity.class
+com\springsecurity\spsecurity\entity\User.class
+com\springsecurity\spsecurity\repository\UserRepository.class
+com\springsecurity\spsecurity\controller\UserRegistrationController.class
+com\springsecurity\spsecurity\repository\StudentManagementRepository.class
+com\springsecurity\spsecurity\service\impl\StudentManagementServiceImpl.class
+com\springsecurity\spsecurity\service\impl\UserServiceImpl.class
+com\springsecurity\spsecurity\dto\UserRegistrationDto.class
+com\springsecurity\spsecurity\SpSecurityApplication.class
+com\springsecurity\spsecurity\service\StudentManagementService.class
+com\springsecurity\spsecurity\config\SpringFoxConfig.class
+com\springsecurity\spsecurity\service\UserService.class
